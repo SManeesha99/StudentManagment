@@ -20,7 +20,7 @@ A C# application for managing student records. It allows administrators to add, 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YourUsername/StudentManagement.git
+    https://github.com/SManeesha99/StudentManagment.git
     ```
 2. Open the project in **Visual Studio**.
 3. Build the project by pressing `Ctrl+Shift+B` or using the **Build** menu.
@@ -54,14 +54,6 @@ A C# application for managing student records. It allows administrators to add, 
 3. Fill in the fields to add a new student or update an existing record.
 4. Press the **Save** button to save the changes.
 
-## Contributing
 
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
